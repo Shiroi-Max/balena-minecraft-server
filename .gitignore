@@ -1,3 +1,3 @@
 mc-server/serverfiles/plugins
-whitelist.json
-server.properties
+mc-server/serverfiles/whitelist.json
+mc-server/serverfiles/server.properties
